@@ -1,4 +1,4 @@
-# 🌐 Docker-Webapp-Project
+# 🌐 Secure terraform project
 
 > A secure, scalable, and containerized web application deployed on **AWS** using **Terraform** and **Docker**, with infrastructure following cloud-native best practices: multi-tier architecture, IAM-based security, auto-scaling, and centralized logging.
 
